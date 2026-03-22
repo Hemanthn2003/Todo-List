@@ -5,9 +5,7 @@ Here’s a **clean, professional README.md** for your project (based on your app
 # 🚀 Full Stack Todo App (React + JSON Server + Render)
 
 <div align="center">
-  <br />
-  <img src="./banner.png" alt="Todo App Banner">
-  <br />
+
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
