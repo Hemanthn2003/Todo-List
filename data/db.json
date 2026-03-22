@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Apple"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Banana"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Orange"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Pineapple"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "Grapes"
+    },
+    {
+      "id": "6",
+      "checked": false,
+      "item": "Strawberry"
+    },
+    {
+      "id": "7",
+      "checked": false,
+      "item": "Blueberry"
+    },
+    {
+      "id": "8",
+      "checked": false,
+      "item": "Cranberry"
+    },
+    {
+      "id": "9",
+      "checked": false,
+      "item": "Chikku"
+    },
+    {
+      "id": "10",
+      "checked": false,
+      "item": "Green Apple"
+    },
+    {
+      "id": "11",
+      "checked": false,
+      "item": "Jack Fruit"
+    },
+    {
+      "id": "12",
+      "checked": false,
+      "item": "Black Berry"
+    },
+    {
+      "id": "13",
+      "checked": false,
+      "item": "Cherry"
+    },
+    {
+      "id": "14",
+      "checked": false,
+      "item": "Litchi"
+    }
+  ]
+}
