@@ -9,7 +9,7 @@ import reqOptions from './reqOptions';
 import Footer from './Footer'; 
 
  function App() {
-  const API_URL = 'http://localhost:3500/items';
+  const API_URL = 'https://todo-backend-1-yuga.onrender.com/items';
 
    const [items ,setItems] = useState([]);
 const [newItem, setNewItem] = useState('');
